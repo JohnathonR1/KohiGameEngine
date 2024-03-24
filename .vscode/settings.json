@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "stdarg.h": "c",
-        "platform.h": "c"
+        "platform.h": "c",
+        "renderer_backend.h": "c"
     }
 }
